@@ -1,0 +1,41 @@
+Joint Motion Analyzer Copyright (c) 2025 Dariusz Mosler All Rights Reserved.
+
+PROPRIETARY SOFTWARE LICENSE AGREEMENT
+
+This software and its documentation are proprietary products of Dariusz Mosler and are protected by copyright and other intellectual property laws.
+
+GRANT OF LICENSE: Subject to the terms of this Agreement, Dariusz Mosler grants you a non-exclusive, non-transferable license to use this software solely for your internal purposes.
+
+RESTRICTIONS: You may NOT:
+
+
+
+
+
+Copy, modify, or create derivative works of the software
+
+
+
+Reverse engineer, decompile, or disassemble the software
+
+
+
+Distribute, sell, lease, rent, or transfer the software
+
+
+
+Remove or alter any copyright notices or proprietary legends
+
+
+
+Use the software for commercial purposes without written permission
+
+DISCLAIMER: This software is provided "AS IS" without warranty of any kind. Dariusz Mosler disclaims all warranties, express or implied.
+
+LIMITATION OF LIABILITY: In no event shall Dariusz Mosler be liable for any damages arising from the use of this software.
+
+TERMINATION: This license is effective until terminated. Your rights under this license will terminate automatically if you fail to comply with any terms.
+
+For commercial licensing or support, contact: Email: dariusz.mosler@gmail.com Website: https://github.com/dariuszmosler
+
+Third-party libraries (MediaPipe, OpenCV, etc.) are subject to their own licenses.
